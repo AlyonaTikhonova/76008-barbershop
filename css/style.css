@@ -1,0 +1,21 @@
+body {
+	font-size: 10px;
+	line-height: 12px;
+	font-color: #000;
+	font-weight: bold;
+	font-family: PTSans Narrow;
+}
+h1 {
+	font-size: 21px;
+	line-height: 12px;
+	font-color: #000;
+	font-weight: bold;
+	font-family: PTSans Narrow;
+}
+h2 {
+	font-size: 17px;
+	line-height: 12px;
+	font-color: #000;
+	font-weight: bold;
+	font-family: PTSans Narrow;
+}
